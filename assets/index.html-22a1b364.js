@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-6c40ee0e","path":"/tag/%E5%B7%A5%E4%BD%9C/","title":"工作 标签","lang":"zh-CN","frontmatter":{"title":"工作 标签","dir":{"index":false},"feed":false,"sitemap":false,"blog":{"type":"category","name":"工作","key":"tag"},"layout":"BlogCategory"},"headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null,"excerpt":""}');export{e as data};
